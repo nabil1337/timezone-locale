@@ -1,5 +1,7 @@
 # timezone-locale
 
+This package is on GitHub: https://github.com/nabil1337/timezone-locale
+
 Convert IANA (tz database) timezone names to localized names.
 Inspired by and with data from: https://github.com/mj1856/TimeZoneNames
 Zero dependencies. MIT License.

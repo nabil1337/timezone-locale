@@ -13,6 +13,10 @@
     "names",
     "locale"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nabil1337/timezone-locale"
+  },
   "dependencies": {},
   "devDependencies": {
     "mocha": "^7.1.0",
