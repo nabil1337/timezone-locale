@@ -1,0 +1,21 @@
+{
+  "name": "timezonenames",
+  "version": "0.1.0",
+  "author": "nabil1337",
+  "license": "MIT",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "timezone",
+    "names",
+    "locale"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.1.0",
+    "should": "^13.2.3"
+  }
+}
