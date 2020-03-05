@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "nabil1337",
   "license": "MIT",
-  "description": "",
+  "description": "Convert IANA (tz database) timezone names to localized names.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
