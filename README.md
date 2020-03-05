@@ -1,4 +1,4 @@
-# timezonenames
+# timezone-locale
 
 Convert IANA (tz database) timezone names to localized names.
 Inspired by and with data from: https://github.com/mj1856/TimeZoneNames
@@ -7,13 +7,13 @@ Zero dependencies. MIT License.
 ## Usage
 
 ```js
-const {TimezoneNames, metazones} = require('timezonenames');
+const {TimezoneNames, metazones} = require('timezone-locale');
 
 // files are required separately to avoid bloat
-const germanDisplay = require('timezonenames/data/de_DE-display.json');
-const germanCldr = require('timezonenames/data/de-cldr.json');
-const englishDisplay = require('timezonenames/data/en_US-display.json');
-const englishCldr = require('timezonenames/data/en-cldr.json');
+const germanDisplay = require('timezone-locale/data/de_DE-display.json');
+const germanCldr = require('timezone-locale/data/de-cldr.json');
+const englishDisplay = require('timezone-locale/data/en_US-display.json');
+const englishCldr = require('timezone-locale/data/en-cldr.json');
 
 const timezoneNames = new TimezoneNames({
     display: {
