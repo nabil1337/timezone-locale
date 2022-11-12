@@ -1,6 +1,6 @@
 {
   "name": "timezone-locale",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "nabil1337",
   "license": "MIT",
   "description": "Convert IANA (tz database) timezone names to localized names.",
